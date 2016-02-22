@@ -1,0 +1,8 @@
+C:\Users\Borja\Desktop\ProyectoHADS\library\bin\Release\libreria.dll
+C:\Users\Borja\Desktop\ProyectoHADS\library\bin\Release\libreria.pdb
+C:\Users\Borja\Desktop\ProyectoHADS\library\bin\Release\libreria.xml
+C:\Users\Borja\Desktop\ProyectoHADS\library\obj\Release\libreria.Resources.resources
+C:\Users\Borja\Desktop\ProyectoHADS\library\obj\Release\libreria.vbproj.GenerateResource.Cache
+C:\Users\Borja\Desktop\ProyectoHADS\library\obj\Release\libreria.dll
+C:\Users\Borja\Desktop\ProyectoHADS\library\obj\Release\libreria.xml
+C:\Users\Borja\Desktop\ProyectoHADS\library\obj\Release\libreria.pdb
