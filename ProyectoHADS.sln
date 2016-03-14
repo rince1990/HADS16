@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProyectoHADS", "ProyectoHADS\ProyectoHADS.vbproj", "{6F4C7734-B877-420A-A999-894CD1D49C96}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "libreria", "library\libreria.vbproj", "{6D4F85DB-6C1E-4A21-BF27-A1738CB2ED40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F4C7734-B877-420A-A999-894CD1D49C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F4C7734-B877-420A-A999-894CD1D49C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F4C7734-B877-420A-A999-894CD1D49C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F4C7734-B877-420A-A999-894CD1D49C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4F85DB-6C1E-4A21-BF27-A1738CB2ED40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4F85DB-6C1E-4A21-BF27-A1738CB2ED40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4F85DB-6C1E-4A21-BF27-A1738CB2ED40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4F85DB-6C1E-4A21-BF27-A1738CB2ED40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
